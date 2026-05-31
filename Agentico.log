@@ -1,0 +1,5 @@
+1780229804155:x "import os\n\nuser = input("Enter name: ")\nprint("Hello " + user)\n\npassword = "admin123"\n\nos.system("echo " + user)"-x "import os\n\nuser = input("Enter name: ")\nprint("Hello " + user)\n\npassword = "admin123"\n\nos.system("echo " + user)-x "import os
+1780229805215:user = input("Enter name: ")
+1780229805221:print("Hello " + user)
+1780229805225:password = "admin123"
+1780229938465:x "find security issues in: user = input(); password = '123'; os.system('rm -rf /tmp/test')"
